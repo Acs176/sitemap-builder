@@ -1,0 +1,8 @@
+github.com/Acs176/html-parser-go v1.0.1 h1:mHAushh6Gaf/KlF5E39+j+CbMpcAqFZGvbuCBw9TMWM=
+github.com/Acs176/html-parser-go v1.0.1/go.mod h1:hQXxzfwXrAbopU/TLhosQBZxyaVlpbuaBTNeLV4U9po=
+github.com/Acs176/html-parser-go v1.0.2 h1:bFwyisClbxdwOFytlV6Yxv11QGHulPX7gXy3hyB1ftg=
+github.com/Acs176/html-parser-go v1.0.2/go.mod h1:hQXxzfwXrAbopU/TLhosQBZxyaVlpbuaBTNeLV4U9po=
+github.com/Acs176/html-parser-go v1.0.3 h1:dQdRGcz4y9St7gqNVgK75Zgvr18FQ9Dx+jmIBnovOmw=
+github.com/Acs176/html-parser-go v1.0.3/go.mod h1:hQXxzfwXrAbopU/TLhosQBZxyaVlpbuaBTNeLV4U9po=
+golang.org/x/net v0.22.0 h1:9sGLhx7iRIHEiX0oAJ3MRZMUCElJgy7Br1nO+AMN3Tc=
+golang.org/x/net v0.22.0/go.mod h1:JKghWKKOSdJwpW2GEx0Ja7fmaKnMsbu+MWVZTokSYmg=
